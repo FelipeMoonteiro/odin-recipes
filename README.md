@@ -3,7 +3,4 @@ Não tenho ideia do motivo desse projeto. Mas tenho noção das habilidades que 
 
 Hoje sei fazer o básico de um site usando HTML. Seja inserir links, imagens, títulos, listas, etc.
 
-Mais uma alteração só para testar.
-
-Agora estou fazendo essa alteração para testar o git commit -v
 
