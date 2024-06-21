@@ -1,0 +1,15 @@
+
+.org {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+
+.listas{
+    font-size: 24px;
+    font-style: italic;
+    background-color:khaki;
+}
+
+/* Funciona apenas por causa da ordem que as classes estão inseridas. Se .listas estiver acima de .org, então toda a página, inclusive os botões ficam com background color black e color white */

@@ -1,0 +1,14 @@
+.listas {
+    font-size: small;
+}
+
+div {
+    text-align: justify;
+
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
