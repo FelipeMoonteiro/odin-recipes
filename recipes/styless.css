@@ -7,8 +7,18 @@ div {
 
 }
 
-* {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: black;
-    color: white;
+.descrição{
+    background-color: #ddff00;
 }
+
+.cabe {
+    background-color: #0086bb;
+    color:rgb(255, 255, 255);
+}
+
+
+/* * {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #1E1E1E;
+    color: #E0E0E0;
+}  */
