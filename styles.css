@@ -1,15 +1,58 @@
 
 .org {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    background-color: #1E1E1E;
-    color: white;
+    color: rgb(0, 0, 0);
+    text-align: center;
 }
 
-.listas{
+.botao {
     font-size: 24px;
     font-style: italic;
-    background-color:#FF6347;
+    background-color:#b9aba8;
 }
 
 /* Funciona apenas por causa da ordem que as classes estão inseridas. Se .listas estiver acima de .org, então toda a página, inclusive os botões ficam com background color black e color white */
+
+.flex-image {
+    display: flex;
+}
+
+.flex-image div {
+    flex: 1;
+    height: 600px;
+}
+
+body {
+    background-image:url(./images/slice-of-bread.jpeg);
+    background-color: #cccc;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.food {
+    width: 300px;
+    margin: auto;
+    display:block;
+    height: 200px;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    width: 80px;
+    height: auto;
+}
+
+#menu {
+    display: flex;
+}
+
+#menu .bt {
+    flex:1;
+    height: 50px;
+}
+
+.zero {
+    width: 800px;
+}
